@@ -1,5 +1,5 @@
 # Arbun
 
-Experience the urban world in Virtual Reality.
+Experience the urban world in virtual reality.
 
 
